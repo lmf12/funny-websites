@@ -8,3 +8,5 @@
 * [AniVerse](https://grokani.xyz/)：一个 Grok Ani 的粉丝向网站，提供使用说明和壁纸。
 * [anitabi](https://anitabi.cn/)：提供知名动漫场景的取景地指南地图，做为圣地巡礼的辅助工具。
 * [美国身份地址生成](https://www.shenfendaquan.com/)：生成美国地区的身份地址，用于外网网站注册。
+* [Pixelera](https://pixelera.art)：每日像素艺术推荐。
+* [在线扫雷](https://www.saolei123.com/)：复刻了 windows 上的扫雷游戏。
